@@ -57,6 +57,13 @@ A collection of resources for understanding, creating, and effectively operating
 | -------- | ----------- | -------- |
 | [institute.coop / Sample Worker Cooperative Bylaws](https://institute.coop/resources/sample-worker-cooperative-bylaws) | A sample document for cooperative bylaws. | bylaws |
 
+<a name="tools" />
+
+## Tools
+| Resource | Description | Keywords |
+| -------- | ----------- | -------- |
+| [Cobudget](https://cobudget.co) | Cobudget makes it easy for organizations and groups to allocate funds collaboratively and transparently. | participatory finance |
+
 <a name="additional-resources" />
 
 ## Additional Resources (and collections of resources)
