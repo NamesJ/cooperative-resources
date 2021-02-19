@@ -63,4 +63,5 @@ A collection of resources for understanding, creating, and effectively operating
 | Resource | Description | Keywords |
 | -------- | ----------- | -------- |
 | [cultivate.coop](https://cultivate.coop/wiki/Main_Page) | A wiki-style collection of resources about cooperatives covering subjects such as: what a coop is, how to start a coop, how to organize and govern a coop, history of the coop movement, the philosophy of coops, resources for social/economic change through cooperatives. | info, startup, organization, governance, history, philosophy, values |
+| [github.com/hng/tech-coops](https://github.com/hng/tech-coops/blob/master/README.md#resources) | A list of tech coops and resources concerning tech coops and worker owned cooperatives in general. | existing coops, guides, books, articles, software, communities, chat, tools, finance |
 | [github.com/hng/tech-coops / resources](https://github.com/hng/tech-coops/blob/master/README.md#resources) | Direct link to the Resources section of the tech-coops readme file. It contains an extensive collection of resources about cooperatives. | guides, books, articles, software, communities, chat, tools, finance |
