@@ -23,9 +23,9 @@ A collection of resources for creating and operating cooperatives
 ## Cooperative organizations
 | Link | Description | Keywords |
 | ---- | ----------- | -------- |
-| [usworker.coop]](https://www.usworker.coop/home/) | United States Federation of Worker Cooperatives | TODO |
+| [usworker.coop](https://www.usworker.coop/home/) | United States Federation of Worker Cooperatives | TODO |
 | [ica.coop](https://www.ica.coop/en) | International Co-operative Alliance | TODO |
-* [cultivate.coop](https://cultivate.coop/wiki/Main_Page) | A Wiki Library of Resources about Cooperatives | TODO |
+| [cultivate.coop](https://cultivate.coop/wiki/Main_Page) | A Wiki Library of Resources about Cooperatives | TODO |
 
 <a name="startup-help" />
 
@@ -48,7 +48,7 @@ A collection of resources for creating and operating cooperatives
 | Resource | Description | Keywords |
 | -------- | ----------- | -------- |
 | [The Loomio Co-op Handbook](https://loomio.coop/) | A cooperative handbook maintained by the Loomio cooperative. | governance, collaboration, planning, onboarding, collaborative funding |
-| [Cultivate.coop Governance Resources](https://cultivate.coop/wiki/Category:Governance) | A collection guides about effective governance techniques. | governance, collaboration, planning |
+| [Cultivate.coop / Governance Resources](https://cultivate.coop/wiki/Category:Governance) | A collection guides about effective governance techniques. | governance, collaboration, planning |
 
 <a name="sample-docs-and-templates" />
 
