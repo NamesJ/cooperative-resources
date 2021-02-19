@@ -13,8 +13,8 @@ A collection of resources for creating and operating cooperatives
 <a name="what-is-a-coop" />
 
 ## What is a coop?
-| Resource | Description |
-| -------- | ----------- |
+| Resource | Description | Keywords |
+| -------- | ----------- | -------- |
 | [cultivate.coop / Cooperatives](https://cultivate.coop/wiki/Cooperative) | A description of cooperative values, principles, member benefits of participation, and the different types of cooperatives. | consumer coop, purchasing coop, marketing coop, value-added processing coops, worker coops |
 | [usworker.coop / Worker Ownership](https://www.usworker.coop/what-is-a-worker-cooperative/) | A description of worker cooperatives, including legal forms, business types, benefits, values, and principles. | worker coops |
 
