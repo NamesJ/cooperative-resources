@@ -50,6 +50,7 @@ A collection of resources for understanding, creating, and effectively operating
 | -------- | ----------- | -------- |
 | [The Loomio Co-op Handbook](https://loomio.coop/) | A cooperative handbook maintained by the Loomio cooperative. | governance, collaboration, planning, onboarding, collaborative funding |
 | [Cultivate.coop / Governance Resources](https://cultivate.coop/wiki/Category:Governance) | A collection guides about effective governance techniques. | governance, collaboration, planning |
+| [Greaterthan Handbook](https://handbook.greaterthan.works/) | A living guide to how Greaterthan operates as an organization. | organizational structure, decision-making, collaboration |
 
 <a name="sample-docs-and-templates" />
 
