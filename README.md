@@ -1,5 +1,5 @@
 # Cooperative Resources
-A collection of resources for creating and operating cooperatives
+A collection of resources for understanding, creating, and effectively operating cooperatives.
 
 ## Table of Contents
 1. [What is a coop?](#what-is-a-coop)
