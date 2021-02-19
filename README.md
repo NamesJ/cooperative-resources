@@ -13,6 +13,7 @@ A collection of resources for creating and operating cooperatives
 <a name="what-is-a-coop" />
 
 ## What is a coop?
+### Worker's cooperative
 * [usworker.coop / Worker Ownership](https://www.usworker.coop/what-is-a-worker-cooperative/)
 
 <a name="coop-orgs" />
