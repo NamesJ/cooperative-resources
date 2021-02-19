@@ -13,6 +13,8 @@ A collection of resources for creating and operating cooperatives
 <a name="what-is-a-coop" />
 
 ## What is a coop?
+### Cooperatives in general
+* [cultivate.coop / Cooperatives](https://cultivate.coop/wiki/Cooperative)
 ### Worker's cooperative
 * [usworker.coop / Worker Ownership](https://www.usworker.coop/what-is-a-worker-cooperative/)
 
@@ -35,8 +37,9 @@ A collection of resources for creating and operating cooperatives
 
 <a name="handbooks" />
 
-## Handbooks (guides for efficient cooperation)
+## Handbooks (guides and techniques for efficient cooperation)
 * [loomio.coop / The Loomio Co-op Handbook](https://loomio.coop/)
+* [cultivate.coop / Governance](https://cultivate.coop/wiki/Category:Governance)
 
 <a name="sample-docs-and-templates" />
 
