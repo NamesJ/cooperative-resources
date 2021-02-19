@@ -19,6 +19,7 @@ A collection of resources for creating and operating cooperatives
 
 ## Cooperative organizations
 * [usworker.coop | United States Federation of Worker Cooperatives](https://www.usworker.coop/home/)
+* [ica.coop | International Co-operative Alliance](https://www.ica.coop/en)
 
 <a name="startup-help" />
 
