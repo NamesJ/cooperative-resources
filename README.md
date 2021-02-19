@@ -8,6 +8,7 @@ A collection of resources for understanding, creating, and effectively operating
 1. [Start-up guides](#start-up-guides)
 1. [Handbooks](#handbooks)
 1. [Sample documents and templates](#sample-docs-and-templates)
+1. [Tools](#tools)
 1. [Additional resources](#additional-resources) 
 
 <a name="what-is-a-coop" />
@@ -62,7 +63,8 @@ A collection of resources for understanding, creating, and effectively operating
 ## Tools
 | Resource | Description | Keywords |
 | -------- | ----------- | -------- |
-| [Cobudget](https://cobudget.co) | Cobudget makes it easy for organizations and groups to allocate funds collaboratively and transparently. | participatory finance |
+| [Cobudget](https://cobudget.co) | Cobudget makes it easy for organizations and groups to allocate funds collaboratively and transparently. It is the flagship product of GreaterThan, a self-managed collective and Stewardship-Owned business. | participatory finance, governance, collective business, stewardship-owned business |
+| [Loomio](https://www.loomio.org/) | Loomio is a collaborative decision-making tool, which makes it easy for groups to collaborate and make decisions. It is an open-source project maintained by the Loomio cooperative. | collaboration, governance, decision-making, communication, open-source, self-hostable, cooperatively-owned business |
 
 <a name="additional-resources" />
 
