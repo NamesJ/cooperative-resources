@@ -21,6 +21,7 @@ A collection of resources for creating and operating cooperatives
 ## Cooperative organizations
 * [usworker.coop | United States Federation of Worker Cooperatives](https://www.usworker.coop/home/)
 * [ica.coop | International Co-operative Alliance](https://www.ica.coop/en)
+* [cultivate.coop | A Wiki Library of Resources about Cooperatives](https://cultivate.coop/wiki/Main_Page)
 
 <a name="startup-help" />
 
@@ -46,5 +47,7 @@ A collection of resources for creating and operating cooperatives
 <a name="additional-resources" />
 
 ## Additional Resources (and collections of resources)
+* [cultivate.coop](https://cultivate.coop/wiki/Main_Page)
+ ** A wiki-style collection of resources about cooperatives covering subjects such as: what a coop is, how to start a coop, how to organize and govern a coop, history of the coop movement, the philosophy of coops, resources for social/economic change through cooperatives.
 * [github.com/hng/tech-coops / resources](https://github.com/hng/tech-coops/blob/master/README.md#resources)
-  ** An extensive collection of resources about cooperatives: handbooks / guides, books, articles, financing, software, videos, communities, etc.; some general, others focusing specifically on tech cooperatives.
+ ** An extensive collection of resources about cooperatives: handbooks / guides, books, articles, financing, software, videos, communities, etc.; some general, others focusing specifically on tech cooperatives.
