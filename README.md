@@ -3,7 +3,7 @@ A collection of resources for understanding, creating, and effectively operating
 
 ## Table of Contents
 1. [What is a coop?](#what-is-a-coop)
-1. [Cooperative organizations](#coop-orgs)
+1. [Cooperative facilitation and support organizations](#coop-support-orgs)
 1. [Get help starting a coop](#startup-help)
 1. [Start-up guides](#start-up-guides)
 1. [Handbooks](#handbooks)
@@ -19,14 +19,15 @@ A collection of resources for understanding, creating, and effectively operating
 | [cultivate.coop / Cooperatives](https://cultivate.coop/wiki/Cooperative) | A description of cooperative values, principles, member benefits of participation, and the different types of cooperatives. | consumer coop, purchasing coop, marketing coop, value-added processing coops, worker coops |
 | [usworker.coop / Worker Ownership](https://www.usworker.coop/what-is-a-worker-cooperative/) | A description of worker cooperatives, including legal forms, business types, benefits, values, and principles. | worker coops |
 
-<a name="coop-orgs" />
+<a name="coop-support-orgs" />
 
-## Cooperative organizations
+## Cooperative facilitation and support organizations
 | Link | Description | Keywords |
 | ---- | ----------- | -------- |
-| [usworker.coop](https://www.usworker.coop/home/) | United States Federation of Worker Cooperatives | TODO |
-| [ica.coop](https://www.ica.coop/en) | International Co-operative Alliance | TODO |
+| [United States Federation of Worker Cooperatives](https://www.usworker.coop/home/) | The United States Federation of Worker Cooperatives (USFWC) is the national grassroots membership organization for worker cooperatives. Our mission is to build a thriving cooperative movement of stable, empowering jobs through worker-ownership. We advance worker-owned, -managed, and -governed workplaces through cooperative education, advocacy and development. | TODO |
+| [International Co-operative Alliance](https://www.ica.coop/en) | The International Cooperative Alliance unites, represents and serves cooperatives worldwide. | TODO |
 | [cultivate.coop](https://cultivate.coop/wiki/Main_Page) | A Wiki Library of Resources about Cooperatives | TODO |
+| [greaterthan.works](https://www.greaterthan.works/) | A group working to facilitate the development and implementation of decentralized organizational structures and commoning. They develop open source tools and products, conduct research, run experiments, and support others attempts to organize in new ways. | TODO |
 
 <a name="startup-help" />
 
