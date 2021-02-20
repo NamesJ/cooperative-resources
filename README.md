@@ -39,7 +39,7 @@ A collection of resources for understanding, creating, and effectively operating
 
 <a name="start-up-guides" />
 
-## Startup Resources
+## Startup resources
 | Resource | Description | Keywords |
 | -------- | ----------- | -------- |
 | [institute.coop / Information for Start-Ups](https://institute.coop/tools/for-worker-coops/start-ups) | A collection of resources, information, and tools helpful to starting a coop. | bylaws, finances, incorporation, governance, legal |
