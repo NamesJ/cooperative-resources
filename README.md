@@ -67,6 +67,7 @@ A collection of resources for understanding, creating, and effectively operating
 | -------- | ----------- | -------- |
 | [Cobudget](https://cobudget.co) | Cobudget makes it easy for organizations and groups to allocate funds collaboratively and transparently. It is the flagship product of GreaterThan, a self-managed collective and Stewardship-Owned business. | participatory finance, governance, collective business, stewardship-owned business |
 | [Loomio](https://www.loomio.org/) | Loomio is a collaborative decision-making tool, which makes it easy for groups to collaborate and make decisions. It is an open-source project maintained by the Loomio cooperative. | collaboration, governance, decision-making, communication, open-source, self-hostable, cooperatively-owned business |
+| [CoopHub](https://coophub.io/) | Repos from cooperatives around the world. | open-source, TODO |
 
 <a name="additional-resources" />
 
