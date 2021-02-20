@@ -25,7 +25,7 @@ A collection of resources for understanding, creating, and effectively operating
 | Link | Description | Keywords |
 | ---- | ----------- | -------- |
 | [United States Federation of Worker Cooperatives](https://www.usworker.coop/home/) | The United States Federation of Worker Cooperatives (USFWC) is the national grassroots membership organization for worker cooperatives. Our mission is to build a thriving cooperative movement of stable, empowering jobs through worker-ownership. We advance worker-owned, -managed, and -governed workplaces through cooperative education, advocacy and development. | TODO |
-| [International Co-operative Alliance](https://www.ica.coop/en) | The International Cooperative Alliance unites, represents and serves cooperatives worldwide. | TODO |
+| [International Co-operative Alliance](https://www.ica.coop/en) | The International Cooperative Alliance unites, represents and serves cooperatives worldwide. | advocacy, inter-cooperation, facilitation, training, development |
 | [cultivate.coop](https://cultivate.coop/wiki/Main_Page) | A Wiki Library of Resources about Cooperatives | TODO |
 | [greaterthan.works](https://www.greaterthan.works/) | A group working to facilitate the development and implementation of decentralized organizational structures and commoning. They develop open source tools and products, conduct research, run experiments, and support others attempts to organize in new ways. | TODO |
 
