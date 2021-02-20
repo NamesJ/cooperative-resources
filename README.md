@@ -34,7 +34,7 @@ A collection of resources for understanding, creating, and effectively operating
 ## Get help starting a coop
 | Resource | Description | Keywords |
 | -------- | ----------- | -------- |
-| [usworker.coop / Co-op Clinic - Technical Assistance Services](https://www.usworker.coop/programs/coopclinic/) | A professional peer network fee-for-service technical assistance network for Democratic Businesses | TODO |
+| [usworker.coop / Co-op Clinic - Technical Assistance Services](https://www.usworker.coop/programs/coopclinic/) | A professional peer network fee-for-service technical assistance network for Democratic Businesses | governance, incorporation, finance, marketing, business, human resources, technology |
 
 
 <a name="start-up-guides" />
